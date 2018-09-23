@@ -8,8 +8,8 @@ Currently Cortana skills are built on top of the Microsoft Bot Framework. As suc
 
 * [Cortana Skills Samples - Build 2017](https://github.com/Microsoft/Cortana-Skills-Samples-Build-2017) - These are samples from the presentations on Cortana Skills at the Microsoft Build 2017 conference.
 * [BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)
-* [BotBuilder - C# samples](https://github.com/Microsoft/BotBuilder/tree/master/CSharp/Samples)
-* [BotBuilder - Node.js samples](https://github.com/Microsoft/BotBuilder/tree/master/Node/examples)
+* [BotBuilder - C# samples](https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp)
+* [BotBuilder - Node.js samples](https://github.com/Microsoft/BotBuilder-Samples/tree/master/Node)
 
 ### Cortana Skills Kit Resources
 
