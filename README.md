@@ -4,7 +4,7 @@ You can create custom functionality for Cortana using the Cortana Skills kit or 
 
 ## Cortana Skills Kit
 
-Currently Cortana skills are built on top of the Microsoft Bot Framework. As such, majority of Bot Framework samples can be used to create Cortana skills. Here are some places to find samples:
+Currently Cortana skills are built on top of the Microsoft Bot Framework. As such, the majority of Bot Framework samples can be used to create Cortana skills. Here are some places to find samples:
 
 * [Cortana Skills Samples - Build 2017](https://github.com/Microsoft/Cortana-Skills-Samples-Build-2017) - These are samples from the presentations on Cortana Skills at the Microsoft Build 2017 conference.
 * [BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)
